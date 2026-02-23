@@ -1,0 +1,32 @@
+{
+    "name": "lawadvisor/laravel-installer",
+    "description": "Laravel Web Installer",
+    "authors": [
+        {
+            "name": "Mr Muzammil",
+            "email": "mrmuzammilyounas@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "lawadvisor\\LaravelInstaller\\": "src/"
+        },
+        "files": [
+            "src/Helpers/functions.php"
+        ]
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "lawadvisor\\LaravelInstaller\\Providers\\LaravelInstallerServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "stable"
+}
