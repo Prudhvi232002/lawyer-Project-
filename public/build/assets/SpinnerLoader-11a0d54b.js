@@ -1,0 +1,1 @@
+import{_ as e,d as o,o as s,c as n}from"./app-9699873a.js";const r=o({}),t={class:"spinner-border spinner-border-sm",role:"status"};function c(a,p,_,d,i,f){return s(),n("div",t)}const l=e(r,[["render",c]]);export{l as S};

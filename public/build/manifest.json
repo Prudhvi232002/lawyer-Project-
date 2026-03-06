@@ -1,0 +1,1836 @@
+{
+  "LawFirmAccount.css": {
+    "file": "assets/LawFirmAccount-91af0d98.css",
+    "src": "LawFirmAccount.css"
+  },
+  "LawyerAccount.css": {
+    "file": "assets/LawyerAccount-e9c8f37c.css",
+    "src": "LawyerAccount.css"
+  },
+  "ProfileSection.css": {
+    "file": "assets/ProfileSection-55ff0417.css",
+    "src": "ProfileSection.css"
+  },
+  "TablePagination.css": {
+    "file": "assets/TablePagination-da5598fe.css",
+    "src": "TablePagination.css"
+  },
+  "TimeSlotsSkeleton.css": {
+    "file": "assets/TimeSlotsSkeleton-5164ddd1.css",
+    "src": "TimeSlotsSkeleton.css"
+  },
+  "_ActionMessage-106e7e18.js": {
+    "file": "assets/ActionMessage-106e7e18.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_AppLayout-d9cf9f8b.js": {
+    "file": "assets/AppLayout-d9cf9f8b.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_ArchiveCard-0c9114c9.js": {
+    "file": "assets/ArchiveCard-0c9114c9.js",
+    "imports": [
+      "resources/js/app.js",
+      "_course-aea85fdd.js"
+    ]
+  },
+  "_AuthenticationCardLogo-a419b4b6.js": {
+    "assets": [
+      "assets/logo-95463e77.png"
+    ],
+    "file": "assets/AuthenticationCardLogo-a419b4b6.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_Breadcrums-6e9c9fc2.js": {
+    "file": "assets/Breadcrums-6e9c9fc2.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_BroadcastCard-4f71f005.js": {
+    "assets": [
+      "assets/media-5f281d02.png"
+    ],
+    "file": "assets/BroadcastCard-4f71f005.js",
+    "imports": [
+      "resources/js/app.js",
+      "_CardSkeleton-05cb23a1.js"
+    ]
+  },
+  "_Button-cfbd6160.js": {
+    "file": "assets/Button-cfbd6160.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_CalenderSkeleton-8c6f26e1.js": {
+    "file": "assets/CalenderSkeleton-8c6f26e1.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_CardSkeleton-05cb23a1.js": {
+    "file": "assets/CardSkeleton-05cb23a1.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_Checkbox-6746ce73.js": {
+    "file": "assets/Checkbox-6746ce73.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_DangerButton-3e27edcd.js": {
+    "file": "assets/DangerButton-3e27edcd.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_DialogModal-d6dbcf90.js": {
+    "file": "assets/DialogModal-d6dbcf90.js",
+    "imports": [
+      "_InputError-0fc4432f.js",
+      "resources/js/app.js",
+      "_Modal-8ee0a00d.js"
+    ]
+  },
+  "_EventCard-f9a527c6.js": {
+    "file": "assets/EventCard-f9a527c6.js",
+    "imports": [
+      "resources/js/app.js",
+      "_default_avatar_men-98dfade1.js"
+    ]
+  },
+  "_FeaturedLawFirmLawyerSection-9bba7f44.js": {
+    "file": "assets/FeaturedLawFirmLawyerSection-9bba7f44.js",
+    "imports": [
+      "resources/js/app.js",
+      "_LawyerCard-698a5702.js",
+      "_CardSkeleton-05cb23a1.js",
+      "_carousel.es-bbf7d40b.js"
+    ]
+  },
+  "_FeaturedLawFirmSection-28646c0a.js": {
+    "file": "assets/FeaturedLawFirmSection-28646c0a.js",
+    "imports": [
+      "resources/js/app.js",
+      "_ValidationErrors-d7bce657.js",
+      "_SpinnerLoader-11a0d54b.js",
+      "_FeaturedLawFirmLawyerSection-9bba7f44.js",
+      "_default_avatar_men-98dfade1.js",
+      "_carousel.es-bbf7d40b.js",
+      "_LawyerCard-698a5702.js"
+    ]
+  },
+  "_FeaturedLawyerSection-8132e764.js": {
+    "css": [
+      "assets/default-0d9e816b.css"
+    ],
+    "file": "assets/FeaturedLawyerSection-8132e764.js",
+    "imports": [
+      "resources/js/app.js",
+      "_ValidationErrors-d7bce657.js",
+      "_VueGoogleAutocomplete-46c12320.js",
+      "_SpinnerLoader-11a0d54b.js",
+      "_LawyerCard-698a5702.js",
+      "_CardSkeleton-05cb23a1.js",
+      "_carousel.es-bbf7d40b.js",
+      "_RecordNotFound-f63fbd0a.js"
+    ]
+  },
+  "_FindEventBar-c3edc7f1.js": {
+    "file": "assets/FindEventBar-c3edc7f1.js",
+    "imports": [
+      "resources/js/app.js",
+      "_ValidationErrors-d7bce657.js",
+      "_SpinnerLoader-11a0d54b.js"
+    ]
+  },
+  "_FormSection-62113fe7.js": {
+    "file": "assets/FormSection-62113fe7.js",
+    "imports": [
+      "resources/js/app.js",
+      "_InputError-0fc4432f.js"
+    ]
+  },
+  "_GuestLayout-05b05a68.js": {
+    "file": "assets/GuestLayout-05b05a68.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_Input-fb8f6ab2.js": {
+    "file": "assets/Input-fb8f6ab2.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_InputError-0fc4432f.js": {
+    "file": "assets/InputError-0fc4432f.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_Label-e8b67dfc.js": {
+    "file": "assets/Label-e8b67dfc.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_LawFirmAccount-15a09dd1.js": {
+    "css": [
+      "assets/LawFirmAccount-91af0d98.css",
+      "assets/default-0d9e816b.css"
+    ],
+    "file": "assets/LawFirmAccount-15a09dd1.js",
+    "imports": [
+      "_AuthenticationCardLogo-a419b4b6.js",
+      "_AppLayout-d9cf9f8b.js",
+      "_Button-cfbd6160.js",
+      "_Input-fb8f6ab2.js",
+      "_Checkbox-6746ce73.js",
+      "_Label-e8b67dfc.js",
+      "_ValidationErrors-d7bce657.js",
+      "resources/js/app.js",
+      "_TimeSlotsSkeleton-3554c274.js",
+      "_SpinnerLoader-11a0d54b.js",
+      "_VueGoogleAutocomplete-46c12320.js",
+      "_default_avatar_men-98dfade1.js",
+      "_Modal-8ee0a00d.js",
+      "_TableTHead-d61fa876.js",
+      "_TablePagination-20d50387.js",
+      "_PaginationMixin-11bee913.js",
+      "_Breadcrums-6e9c9fc2.js"
+    ]
+  },
+  "_LawFirmReviewCard-77faad14.js": {
+    "file": "assets/LawFirmReviewCard-77faad14.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_LawyerAccount-72eace50.js": {
+    "css": [
+      "assets/LawyerAccount-e9c8f37c.css"
+    ],
+    "file": "assets/LawyerAccount-72eace50.js",
+    "imports": [
+      "_AuthenticationCardLogo-a419b4b6.js",
+      "_AppLayout-d9cf9f8b.js",
+      "_Button-cfbd6160.js",
+      "_Input-fb8f6ab2.js",
+      "_Checkbox-6746ce73.js",
+      "_Label-e8b67dfc.js",
+      "_ValidationErrors-d7bce657.js",
+      "resources/js/app.js",
+      "_TimeSlotsSkeleton-3554c274.js",
+      "_SpinnerLoader-11a0d54b.js",
+      "_Modal-8ee0a00d.js",
+      "_VueGoogleAutocomplete-46c12320.js",
+      "_TableTHead-d61fa876.js",
+      "_TablePagination-20d50387.js",
+      "_PaginationMixin-11bee913.js",
+      "_default_avatar_men-98dfade1.js",
+      "_Breadcrums-6e9c9fc2.js"
+    ]
+  },
+  "_LawyerCard-698a5702.js": {
+    "file": "assets/LawyerCard-698a5702.js",
+    "imports": [
+      "resources/js/app.js",
+      "_default_avatar_men-98dfade1.js"
+    ]
+  },
+  "_LawyerReviewCard-53d3eec8.js": {
+    "file": "assets/LawyerReviewCard-53d3eec8.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_Modal-8ee0a00d.js": {
+    "file": "assets/Modal-8ee0a00d.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_PageHeader-a1b6d327.js": {
+    "file": "assets/PageHeader-a1b6d327.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_PaginationMixin-11bee913.js": {
+    "file": "assets/PaginationMixin-11bee913.js"
+  },
+  "_PodcastCard-0edb2d5f.js": {
+    "file": "assets/PodcastCard-0edb2d5f.js",
+    "imports": [
+      "resources/js/app.js",
+      "_podcast-d52a64c8.js"
+    ]
+  },
+  "_PostCard-d348bfcb.js": {
+    "file": "assets/PostCard-d348bfcb.js",
+    "imports": [
+      "resources/js/app.js",
+      "_image-3ef26202.js"
+    ]
+  },
+  "_ProfileSection-adc891cf.js": {
+    "css": [
+      "assets/ProfileSection-55ff0417.css"
+    ],
+    "file": "assets/ProfileSection-adc891cf.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_RecordNotFound-f63fbd0a.js": {
+    "assets": [
+      "assets/justice-45683085.gif"
+    ],
+    "file": "assets/RecordNotFound-f63fbd0a.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_SecondaryButton-cf617ae5.js": {
+    "file": "assets/SecondaryButton-cf617ae5.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_ServiceCard-379f7600.js": {
+    "file": "assets/ServiceCard-379f7600.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_SideTabsPageSkeleton-fefd11a3.js": {
+    "file": "assets/SideTabsPageSkeleton-fefd11a3.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_SpinnerLoader-11a0d54b.js": {
+    "file": "assets/SpinnerLoader-11a0d54b.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_SpotLightCardSkeleton-8b61ec0c.js": {
+    "file": "assets/SpotLightCardSkeleton-8b61ec0c.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_SpotlightLawyerSection-90dd1849.js": {
+    "assets": [
+      "assets/premium-1f9fefe8.png"
+    ],
+    "file": "assets/SpotlightLawyerSection-90dd1849.js",
+    "imports": [
+      "resources/js/app.js",
+      "_default_avatar_men-98dfade1.js",
+      "_SpotLightCardSkeleton-8b61ec0c.js",
+      "_carousel.es-bbf7d40b.js",
+      "_RecordNotFound-f63fbd0a.js"
+    ]
+  },
+  "_TablePagination-20d50387.js": {
+    "css": [
+      "assets/TablePagination-da5598fe.css"
+    ],
+    "file": "assets/TablePagination-20d50387.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_TableTHead-d61fa876.js": {
+    "file": "assets/TableTHead-d61fa876.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_TimeSlotsSkeleton-3554c274.js": {
+    "css": [
+      "assets/TimeSlotsSkeleton-5164ddd1.css"
+    ],
+    "file": "assets/TimeSlotsSkeleton-3554c274.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_ValidationErrors-d7bce657.js": {
+    "file": "assets/ValidationErrors-d7bce657.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_VueGoogleAutocomplete-46c12320.js": {
+    "file": "assets/VueGoogleAutocomplete-46c12320.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_arrow-ee1506ca.js": {
+    "assets": [
+      "assets/person-337148b2.png",
+      "assets/sale-services-2a3376b4.png",
+      "assets/property-s-003bcee4.png",
+      "assets/arrow-fbe093bd.png"
+    ],
+    "file": "assets/arrow-ee1506ca.js"
+  },
+  "_avatar-98dfade1.js": {
+    "assets": [
+      "assets/avatar-d09c637b.png"
+    ],
+    "file": "assets/avatar-98dfade1.js"
+  },
+  "_carousel.es-bbf7d40b.js": {
+    "file": "assets/carousel.es-bbf7d40b.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_course-aea85fdd.js": {
+    "assets": [
+      "assets/course-cbaf4065.png"
+    ],
+    "file": "assets/course-aea85fdd.js"
+  },
+  "_default_avatar_men-98dfade1.js": {
+    "assets": [
+      "assets/avatar-d09c637b.png"
+    ],
+    "file": "assets/default_avatar_men-98dfade1.js"
+  },
+  "_image-3ef26202.js": {
+    "assets": [
+      "assets/image-94cb5f9e.png"
+    ],
+    "file": "assets/image-3ef26202.js"
+  },
+  "_lock-f1fa0ef0.js": {
+    "assets": [
+      "assets/lock-8e89a8f6.png"
+    ],
+    "file": "assets/lock-f1fa0ef0.js"
+  },
+  "_podcast-d52a64c8.js": {
+    "assets": [
+      "assets/podcast-c74d13a2.png"
+    ],
+    "file": "assets/podcast-d52a64c8.js"
+  },
+  "_slider-img-03538d68.js": {
+    "assets": [
+      "assets/slider-img-705dd6cc.png"
+    ],
+    "file": "assets/slider-img-03538d68.js"
+  },
+  "_user-9b6c88e0.js": {
+    "assets": [
+      "assets/user-32151180.png"
+    ],
+    "file": "assets/user-9b6c88e0.js"
+  },
+  "default.css": {
+    "file": "assets/default-0d9e816b.css",
+    "src": "default.css"
+  },
+  "resources/js/Pages/Account.vue": {
+    "css": [
+      "assets/default-0d9e816b.css"
+    ],
+    "file": "assets/Account-69fa2782.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "_LawyerAccount-72eace50.js",
+      "_AuthenticationCardLogo-a419b4b6.js",
+      "_Button-cfbd6160.js",
+      "_Input-fb8f6ab2.js",
+      "_Checkbox-6746ce73.js",
+      "_Label-e8b67dfc.js",
+      "_ValidationErrors-d7bce657.js",
+      "resources/js/app.js",
+      "_TimeSlotsSkeleton-3554c274.js",
+      "_SpinnerLoader-11a0d54b.js",
+      "_default_avatar_men-98dfade1.js",
+      "_Breadcrums-6e9c9fc2.js",
+      "_LawFirmAccount-15a09dd1.js",
+      "_Modal-8ee0a00d.js",
+      "_VueGoogleAutocomplete-46c12320.js",
+      "_TableTHead-d61fa876.js",
+      "_TablePagination-20d50387.js",
+      "_PaginationMixin-11bee913.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Account.vue"
+  },
+  "resources/js/Pages/AddFundBankAccount.vue": {
+    "assets": [
+      "assets/loginbtnicon-0089190a.png"
+    ],
+    "file": "assets/AddFundBankAccount-b350f88f.js",
+    "imports": [
+      "resources/js/app.js",
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "_ValidationErrors-d7bce657.js",
+      "_CalenderSkeleton-8c6f26e1.js",
+      "_carousel.es-bbf7d40b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/AddFundBankAccount.vue"
+  },
+  "resources/js/Pages/Appointment.css": {
+    "file": "assets/Appointment-019fb5c0.css",
+    "src": "resources/js/Pages/Appointment.css"
+  },
+  "resources/js/Pages/Appointment.vue": {
+    "assets": [
+      "assets/vid-call-56267b37.png"
+    ],
+    "css": [
+      "assets/Appointment-019fb5c0.css"
+    ],
+    "file": "assets/Appointment-2fcc33c0.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Appointment.vue"
+  },
+  "resources/js/Pages/AppointmentLog.vue": {
+    "file": "assets/AppointmentLog-adcc9cd0.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "resources/js/app.js",
+      "_ValidationErrors-d7bce657.js",
+      "_TableTHead-d61fa876.js",
+      "_TablePagination-20d50387.js",
+      "_PaginationMixin-11bee913.js",
+      "_SideTabsPageSkeleton-fefd11a3.js",
+      "_RecordNotFound-f63fbd0a.js",
+      "_default_avatar_men-98dfade1.js",
+      "_Breadcrums-6e9c9fc2.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/AppointmentLog.vue"
+  },
+  "resources/js/Pages/AppointmentLogDetail.css": {
+    "file": "assets/AppointmentLogDetail-e9bf2b29.css",
+    "src": "resources/js/Pages/AppointmentLogDetail.css"
+  },
+  "resources/js/Pages/AppointmentLogDetail.vue": {
+    "css": [
+      "assets/AppointmentLogDetail-e9bf2b29.css"
+    ],
+    "file": "assets/AppointmentLogDetail-9f3c6468.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "resources/js/app.js",
+      "_ValidationErrors-d7bce657.js",
+      "_Breadcrums-6e9c9fc2.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/AppointmentLogDetail.vue"
+  },
+  "resources/js/Pages/AppointmentLogOld.vue": {
+    "file": "assets/AppointmentLogOld-691b8a77.js",
+    "imports": [
+      "resources/js/app.js",
+      "_default_avatar_men-98dfade1.js",
+      "_AppLayout-d9cf9f8b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/AppointmentLogOld.vue"
+  },
+  "resources/js/Pages/Archives/Detail.vue": {
+    "file": "assets/Detail-a45eb832.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "_Breadcrums-6e9c9fc2.js",
+      "_course-aea85fdd.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Archives/Detail.vue"
+  },
+  "resources/js/Pages/Archives/Listing.vue": {
+    "file": "assets/Listing-cfde62e9.js",
+    "imports": [
+      "_PaginationMixin-11bee913.js",
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "resources/js/app.js",
+      "_ValidationErrors-d7bce657.js",
+      "_SpinnerLoader-11a0d54b.js",
+      "_ArchiveCard-0c9114c9.js",
+      "_RecordNotFound-f63fbd0a.js",
+      "_Breadcrums-6e9c9fc2.js",
+      "_CardSkeleton-05cb23a1.js",
+      "_course-aea85fdd.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Archives/Listing.vue"
+  },
+  "resources/js/Pages/Auth/ConfirmPassword.vue": {
+    "file": "assets/ConfirmPassword-ca8572e9.js",
+    "imports": [
+      "resources/js/app.js",
+      "_AuthenticationCardLogo-a419b4b6.js",
+      "_AppLayout-d9cf9f8b.js",
+      "_Button-cfbd6160.js",
+      "_Input-fb8f6ab2.js",
+      "_Label-e8b67dfc.js",
+      "_ValidationErrors-d7bce657.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/ConfirmPassword.vue"
+  },
+  "resources/js/Pages/Auth/ForgotPassword.vue": {
+    "file": "assets/ForgotPassword-59c896be.js",
+    "imports": [
+      "resources/js/app.js",
+      "_AuthenticationCardLogo-a419b4b6.js",
+      "_GuestLayout-05b05a68.js",
+      "_AppLayout-d9cf9f8b.js",
+      "_Button-cfbd6160.js",
+      "_Input-fb8f6ab2.js",
+      "_Label-e8b67dfc.js",
+      "_ValidationErrors-d7bce657.js",
+      "_SpinnerLoader-11a0d54b.js",
+      "_carousel.es-bbf7d40b.js",
+      "_slider-img-03538d68.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/ForgotPassword.vue"
+  },
+  "resources/js/Pages/Auth/Login.vue": {
+    "file": "assets/Login-735777f7.js",
+    "imports": [
+      "_AuthenticationCardLogo-a419b4b6.js",
+      "_AppLayout-d9cf9f8b.js",
+      "_Button-cfbd6160.js",
+      "_Input-fb8f6ab2.js",
+      "_Checkbox-6746ce73.js",
+      "_Label-e8b67dfc.js",
+      "_ValidationErrors-d7bce657.js",
+      "resources/js/app.js",
+      "_SpinnerLoader-11a0d54b.js",
+      "_GuestLayout-05b05a68.js",
+      "_carousel.es-bbf7d40b.js",
+      "_slider-img-03538d68.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/Login.vue"
+  },
+  "resources/js/Pages/Auth/Register.vue": {
+    "file": "assets/Register-e7dc33c8.js",
+    "imports": [
+      "_AuthenticationCardLogo-a419b4b6.js",
+      "_AppLayout-d9cf9f8b.js",
+      "_Button-cfbd6160.js",
+      "_Input-fb8f6ab2.js",
+      "_Checkbox-6746ce73.js",
+      "_Label-e8b67dfc.js",
+      "_ValidationErrors-d7bce657.js",
+      "resources/js/app.js",
+      "_GuestLayout-05b05a68.js",
+      "_carousel.es-bbf7d40b.js",
+      "_slider-img-03538d68.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/Register.vue"
+  },
+  "resources/js/Pages/Auth/ResetPassword.vue": {
+    "file": "assets/ResetPassword-fde8d327.js",
+    "imports": [
+      "resources/js/app.js",
+      "_AuthenticationCardLogo-a419b4b6.js",
+      "_AppLayout-d9cf9f8b.js",
+      "_Button-cfbd6160.js",
+      "_Input-fb8f6ab2.js",
+      "_Label-e8b67dfc.js",
+      "_ValidationErrors-d7bce657.js",
+      "_carousel.es-bbf7d40b.js",
+      "_slider-img-03538d68.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/ResetPassword.vue"
+  },
+  "resources/js/Pages/Auth/VerifyEmail.vue": {
+    "file": "assets/VerifyEmail-31099ef8.js",
+    "imports": [
+      "resources/js/app.js",
+      "_PageHeader-a1b6d327.js",
+      "_AuthenticationCardLogo-a419b4b6.js",
+      "_AppLayout-d9cf9f8b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Auth/VerifyEmail.vue"
+  },
+  "resources/js/Pages/BankAccounts.vue": {
+    "file": "assets/BankAccounts-ab0b1359.js",
+    "imports": [
+      "resources/js/app.js",
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "_ValidationErrors-d7bce657.js",
+      "_CalenderSkeleton-8c6f26e1.js",
+      "_carousel.es-bbf7d40b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/BankAccounts.vue"
+  },
+  "resources/js/Pages/Blogs/Detail.vue": {
+    "file": "assets/Detail-d7ea3f0f.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "_Breadcrums-6e9c9fc2.js",
+      "_image-3ef26202.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Blogs/Detail.vue"
+  },
+  "resources/js/Pages/Blogs/Listing.vue": {
+    "file": "assets/Listing-8b3c3256.js",
+    "imports": [
+      "_PaginationMixin-11bee913.js",
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "resources/js/app.js",
+      "_ValidationErrors-d7bce657.js",
+      "_SpinnerLoader-11a0d54b.js",
+      "_PostCard-d348bfcb.js",
+      "_RecordNotFound-f63fbd0a.js",
+      "_Breadcrums-6e9c9fc2.js",
+      "_CardSkeleton-05cb23a1.js",
+      "_image-3ef26202.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Blogs/Listing.vue"
+  },
+  "resources/js/Pages/Broadcasts/Detail.vue": {
+    "file": "assets/Detail-ded75008.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "_Breadcrums-6e9c9fc2.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Broadcasts/Detail.vue"
+  },
+  "resources/js/Pages/Broadcasts/Listing.vue": {
+    "file": "assets/Listing-6363a26b.js",
+    "imports": [
+      "_PaginationMixin-11bee913.js",
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "resources/js/app.js",
+      "_ValidationErrors-d7bce657.js",
+      "_SpinnerLoader-11a0d54b.js",
+      "_BroadcastCard-4f71f005.js",
+      "_RecordNotFound-f63fbd0a.js",
+      "_Breadcrums-6e9c9fc2.js",
+      "_CardSkeleton-05cb23a1.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Broadcasts/Listing.vue"
+  },
+  "resources/js/Pages/Categories/Listing.vue": {
+    "css": [
+      "assets/default-0d9e816b.css"
+    ],
+    "file": "assets/Listing-a0cb910c.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "resources/js/app.js",
+      "_ValidationErrors-d7bce657.js",
+      "_VueGoogleAutocomplete-46c12320.js",
+      "_Breadcrums-6e9c9fc2.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Categories/Listing.vue"
+  },
+  "resources/js/Pages/CommunityPosts/Detail.vue": {
+    "assets": [
+      "assets/pic2-bc1191b3.png"
+    ],
+    "file": "assets/Detail-203a7c63.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "resources/js/app.js",
+      "_user-9b6c88e0.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/CommunityPosts/Detail.vue"
+  },
+  "resources/js/Pages/CommunityPosts/Index.css": {
+    "file": "assets/Index-fc305b6b.css",
+    "src": "resources/js/Pages/CommunityPosts/Index.css"
+  },
+  "resources/js/Pages/CommunityPosts/Index.vue": {
+    "assets": [
+      "assets/Emoji-692fc46b.svg",
+      "assets/attach-2-f420e9aa.svg",
+      "assets/send-1512e519.svg",
+      "assets/members-icon-1fc3dbec.png"
+    ],
+    "css": [
+      "assets/Index-fc305b6b.css"
+    ],
+    "file": "assets/Index-65d44a4c.js",
+    "imports": [
+      "resources/js/app.js",
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "_ValidationErrors-d7bce657.js",
+      "_Modal-8ee0a00d.js",
+      "_user-9b6c88e0.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/CommunityPosts/Index.vue"
+  },
+  "resources/js/Pages/Company/Cookies.vue": {
+    "file": "assets/Cookies-f096f848.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Company/Cookies.vue"
+  },
+  "resources/js/Pages/Company/PrivacyPolicy.vue": {
+    "file": "assets/PrivacyPolicy-0752800a.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Company/PrivacyPolicy.vue"
+  },
+  "resources/js/Pages/Company/Terms.vue": {
+    "file": "assets/Terms-60b91468.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Company/Terms.vue"
+  },
+  "resources/js/Pages/CompanyPage.vue": {
+    "file": "assets/CompanyPage-f8e21259.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/CompanyPage.vue"
+  },
+  "resources/js/Pages/Contact.vue": {
+    "file": "assets/Contact-23b02fe4.js",
+    "imports": [
+      "resources/js/app.js",
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "_ValidationErrors-d7bce657.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Contact.vue"
+  },
+  "resources/js/Pages/Dashboard.vue": {
+    "file": "assets/Dashboard-b79fd392.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Dashboard.vue"
+  },
+  "resources/js/Pages/Donation.vue": {
+    "file": "assets/Donation-c52e5783.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Donation.vue"
+  },
+  "resources/js/Pages/Events/Detail.vue": {
+    "file": "assets/Detail-c900c4be.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Events/Detail.vue"
+  },
+  "resources/js/Pages/Events/Listing.vue": {
+    "file": "assets/Listing-28fa027c.js",
+    "imports": [
+      "_PaginationMixin-11bee913.js",
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "_FindEventBar-c3edc7f1.js",
+      "_SpotlightLawyerSection-90dd1849.js",
+      "_EventCard-f9a527c6.js",
+      "resources/js/app.js",
+      "_default_avatar_men-98dfade1.js",
+      "_RecordNotFound-f63fbd0a.js",
+      "_SpotLightCardSkeleton-8b61ec0c.js",
+      "_Breadcrums-6e9c9fc2.js",
+      "_ValidationErrors-d7bce657.js",
+      "_SpinnerLoader-11a0d54b.js",
+      "_carousel.es-bbf7d40b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Events/Listing.vue"
+  },
+  "resources/js/Pages/FAQ.vue": {
+    "file": "assets/FAQ-2f2cf296.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "_RecordNotFound-f63fbd0a.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/FAQ.vue"
+  },
+  "resources/js/Pages/FailedPage.vue": {
+    "file": "assets/FailedPage-e050aada.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/FailedPage.vue"
+  },
+  "resources/js/Pages/Forum.vue": {
+    "file": "assets/Forum-aa09b0bd.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Forum.vue"
+  },
+  "resources/js/Pages/HealYourSelf.vue": {
+    "file": "assets/HealYourSelf-79dcd344.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/HealYourSelf.vue"
+  },
+  "resources/js/Pages/Home.css": {
+    "file": "assets/Home-8b3b9965.css",
+    "src": "resources/js/Pages/Home.css"
+  },
+  "resources/js/Pages/Home.vue": {
+    "assets": [
+      "assets/cardlaw-42b8286f.jpg",
+      "assets/27718-5-business-people-hd-2982498d.png",
+      "assets/mobile-2-9f8d716b.png",
+      "assets/group3-5ce2c810.png",
+      "assets/lawfirmhero1-5f5683f6.png",
+      "assets/lawfirmshero-a28f8051.png",
+      "assets/lawfirmhero4-3f5a6881.png",
+      "assets/lawfirmhero2-245bd587.png",
+      "assets/lawfirmhero3-d1e72ba7.png"
+    ],
+    "css": [
+      "assets/Home-8b3b9965.css",
+      "assets/default-0d9e816b.css"
+    ],
+    "file": "assets/Home-5e2d2aac.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "_FeaturedLawyerSection-8132e764.js",
+      "_FeaturedLawFirmSection-28646c0a.js",
+      "_FindEventBar-c3edc7f1.js",
+      "_SpotlightLawyerSection-90dd1849.js",
+      "resources/js/app.js",
+      "_LawyerCard-698a5702.js",
+      "_EventCard-f9a527c6.js",
+      "_carousel.es-bbf7d40b.js",
+      "_CardSkeleton-05cb23a1.js",
+      "_RecordNotFound-f63fbd0a.js",
+      "_default_avatar_men-98dfade1.js",
+      "_ValidationErrors-d7bce657.js",
+      "_VueGoogleAutocomplete-46c12320.js",
+      "_SpinnerLoader-11a0d54b.js",
+      "_FeaturedLawFirmLawyerSection-9bba7f44.js",
+      "_SpotLightCardSkeleton-8b61ec0c.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Home.vue"
+  },
+  "resources/js/Pages/LawFirms/BookAppointment.css": {
+    "file": "assets/BookAppointment-44ea2aa2.css",
+    "src": "resources/js/Pages/LawFirms/BookAppointment.css"
+  },
+  "resources/js/Pages/LawFirms/BookAppointment.vue": {
+    "css": [
+      "assets/BookAppointment-44ea2aa2.css"
+    ],
+    "file": "assets/BookAppointment-a1318516.js",
+    "imports": [
+      "resources/js/app.js",
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "_ValidationErrors-d7bce657.js",
+      "_CalenderSkeleton-8c6f26e1.js",
+      "_carousel.es-bbf7d40b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/LawFirms/BookAppointment.vue"
+  },
+  "resources/js/Pages/LawFirms/Listing.vue": {
+    "file": "assets/Listing-a63416a6.js",
+    "imports": [
+      "_PaginationMixin-11bee913.js",
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "_FeaturedLawFirmSection-28646c0a.js",
+      "resources/js/app.js",
+      "_default_avatar_men-98dfade1.js",
+      "_carousel.es-bbf7d40b.js",
+      "_RecordNotFound-f63fbd0a.js",
+      "_SpotLightCardSkeleton-8b61ec0c.js",
+      "_Breadcrums-6e9c9fc2.js",
+      "_ValidationErrors-d7bce657.js",
+      "_SpinnerLoader-11a0d54b.js",
+      "_FeaturedLawFirmLawyerSection-9bba7f44.js",
+      "_LawyerCard-698a5702.js",
+      "_CardSkeleton-05cb23a1.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/LawFirms/Listing.vue"
+  },
+  "resources/js/Pages/LawFirms/Profile.css": {
+    "file": "assets/Profile-08fcb3e0.css",
+    "src": "resources/js/Pages/LawFirms/Profile.css"
+  },
+  "resources/js/Pages/LawFirms/Profile.vue": {
+    "css": [
+      "assets/Profile-08fcb3e0.css",
+      "assets/default-0d9e816b.css"
+    ],
+    "file": "assets/Profile-6322c01b.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "_LawFirmAccount-15a09dd1.js",
+      "_BroadcastCard-4f71f005.js",
+      "_PodcastCard-0edb2d5f.js",
+      "_PostCard-d348bfcb.js",
+      "resources/js/app.js",
+      "_avatar-98dfade1.js",
+      "_ArchiveCard-0c9114c9.js",
+      "_EventCard-f9a527c6.js",
+      "_ProfileSection-adc891cf.js",
+      "_LawFirmReviewCard-77faad14.js",
+      "_Modal-8ee0a00d.js",
+      "_carousel.es-bbf7d40b.js",
+      "_FeaturedLawFirmLawyerSection-9bba7f44.js",
+      "_default_avatar_men-98dfade1.js",
+      "_AuthenticationCardLogo-a419b4b6.js",
+      "_Button-cfbd6160.js",
+      "_Input-fb8f6ab2.js",
+      "_Checkbox-6746ce73.js",
+      "_Label-e8b67dfc.js",
+      "_ValidationErrors-d7bce657.js",
+      "_TimeSlotsSkeleton-3554c274.js",
+      "_SpinnerLoader-11a0d54b.js",
+      "_VueGoogleAutocomplete-46c12320.js",
+      "_TableTHead-d61fa876.js",
+      "_TablePagination-20d50387.js",
+      "_PaginationMixin-11bee913.js",
+      "_Breadcrums-6e9c9fc2.js",
+      "_CardSkeleton-05cb23a1.js",
+      "_podcast-d52a64c8.js",
+      "_image-3ef26202.js",
+      "_course-aea85fdd.js",
+      "_LawyerCard-698a5702.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/LawFirms/Profile.vue"
+  },
+  "resources/js/Pages/LawFirms/Reviews.vue": {
+    "file": "assets/Reviews-8ecb8134.js",
+    "imports": [
+      "_PaginationMixin-11bee913.js",
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "_LawFirmReviewCard-77faad14.js",
+      "_RecordNotFound-f63fbd0a.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/LawFirms/Reviews.vue"
+  },
+  "resources/js/Pages/Lawyers/BookAppointment.css": {
+    "file": "assets/BookAppointment-ed117fba.css",
+    "src": "resources/js/Pages/Lawyers/BookAppointment.css"
+  },
+  "resources/js/Pages/Lawyers/BookAppointment.vue": {
+    "css": [
+      "assets/BookAppointment-ed117fba.css"
+    ],
+    "file": "assets/BookAppointment-bf1960dd.js",
+    "imports": [
+      "resources/js/app.js",
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "_ValidationErrors-d7bce657.js",
+      "_CalenderSkeleton-8c6f26e1.js",
+      "_carousel.es-bbf7d40b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Lawyers/BookAppointment.vue"
+  },
+  "resources/js/Pages/Lawyers/Listing.vue": {
+    "css": [
+      "assets/default-0d9e816b.css"
+    ],
+    "file": "assets/Listing-eb1a165e.js",
+    "imports": [
+      "_PaginationMixin-11bee913.js",
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "_FeaturedLawyerSection-8132e764.js",
+      "_SpotlightLawyerSection-90dd1849.js",
+      "resources/js/app.js",
+      "_default_avatar_men-98dfade1.js",
+      "_SpotLightCardSkeleton-8b61ec0c.js",
+      "_RecordNotFound-f63fbd0a.js",
+      "_Breadcrums-6e9c9fc2.js",
+      "_ValidationErrors-d7bce657.js",
+      "_VueGoogleAutocomplete-46c12320.js",
+      "_SpinnerLoader-11a0d54b.js",
+      "_LawyerCard-698a5702.js",
+      "_CardSkeleton-05cb23a1.js",
+      "_carousel.es-bbf7d40b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Lawyers/Listing.vue"
+  },
+  "resources/js/Pages/Lawyers/Profile.css": {
+    "file": "assets/Profile-d63502fa.css",
+    "src": "resources/js/Pages/Lawyers/Profile.css"
+  },
+  "resources/js/Pages/Lawyers/Profile.vue": {
+    "css": [
+      "assets/Profile-d63502fa.css"
+    ],
+    "file": "assets/Profile-85a823d4.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "_LawyerAccount-72eace50.js",
+      "_BroadcastCard-4f71f005.js",
+      "_PodcastCard-0edb2d5f.js",
+      "_PostCard-d348bfcb.js",
+      "resources/js/app.js",
+      "_avatar-98dfade1.js",
+      "_ArchiveCard-0c9114c9.js",
+      "_EventCard-f9a527c6.js",
+      "_ServiceCard-379f7600.js",
+      "_ProfileSection-adc891cf.js",
+      "_LawyerReviewCard-53d3eec8.js",
+      "_Modal-8ee0a00d.js",
+      "_carousel.es-bbf7d40b.js",
+      "_default_avatar_men-98dfade1.js",
+      "_AuthenticationCardLogo-a419b4b6.js",
+      "_Button-cfbd6160.js",
+      "_Input-fb8f6ab2.js",
+      "_Checkbox-6746ce73.js",
+      "_Label-e8b67dfc.js",
+      "_ValidationErrors-d7bce657.js",
+      "_TimeSlotsSkeleton-3554c274.js",
+      "_SpinnerLoader-11a0d54b.js",
+      "_VueGoogleAutocomplete-46c12320.js",
+      "_TableTHead-d61fa876.js",
+      "_TablePagination-20d50387.js",
+      "_PaginationMixin-11bee913.js",
+      "_Breadcrums-6e9c9fc2.js",
+      "_CardSkeleton-05cb23a1.js",
+      "_podcast-d52a64c8.js",
+      "_image-3ef26202.js",
+      "_course-aea85fdd.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Lawyers/Profile.vue"
+  },
+  "resources/js/Pages/Lawyers/Reviews.vue": {
+    "file": "assets/Reviews-8bc7f1ad.js",
+    "imports": [
+      "_PaginationMixin-11bee913.js",
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "_LawyerReviewCard-53d3eec8.js",
+      "_RecordNotFound-f63fbd0a.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Lawyers/Reviews.vue"
+  },
+  "resources/js/Pages/OurStory.vue": {
+    "file": "assets/OurStory-a00c52e1.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/OurStory.vue"
+  },
+  "resources/js/Pages/Podcasts/Detail.vue": {
+    "file": "assets/Detail-93ff9985.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "_Breadcrums-6e9c9fc2.js",
+      "_podcast-d52a64c8.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Podcasts/Detail.vue"
+  },
+  "resources/js/Pages/Podcasts/Listing.vue": {
+    "file": "assets/Listing-db6fe470.js",
+    "imports": [
+      "_PaginationMixin-11bee913.js",
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "resources/js/app.js",
+      "_ValidationErrors-d7bce657.js",
+      "_SpinnerLoader-11a0d54b.js",
+      "_PodcastCard-0edb2d5f.js",
+      "_RecordNotFound-f63fbd0a.js",
+      "_Breadcrums-6e9c9fc2.js",
+      "_CardSkeleton-05cb23a1.js",
+      "_podcast-d52a64c8.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Podcasts/Listing.vue"
+  },
+  "resources/js/Pages/PricingPlan/Detail.vue": {
+    "file": "assets/Detail-41bf31b1.js",
+    "imports": [
+      "resources/js/app.js",
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/PricingPlan/Detail.vue"
+  },
+  "resources/js/Pages/PricingPlan/Listing.css": {
+    "file": "assets/Listing-cb8e28d6.css",
+    "src": "resources/js/Pages/PricingPlan/Listing.css"
+  },
+  "resources/js/Pages/PricingPlan/Listing.vue": {
+    "css": [
+      "assets/Listing-cb8e28d6.css"
+    ],
+    "file": "assets/Listing-9f5c22a5.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/PricingPlan/Listing.vue"
+  },
+  "resources/js/Pages/Profile/Partials/DeleteUserForm.vue": {
+    "file": "assets/DeleteUserForm-2cc983b9.js",
+    "imports": [
+      "resources/js/app.js",
+      "_DialogModal-d6dbcf90.js",
+      "_DangerButton-3e27edcd.js",
+      "_Input-fb8f6ab2.js",
+      "_InputError-0fc4432f.js",
+      "_SecondaryButton-cf617ae5.js",
+      "_Modal-8ee0a00d.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Profile/Partials/DeleteUserForm.vue"
+  },
+  "resources/js/Pages/Profile/Partials/LogoutOtherBrowserSessionsForm.vue": {
+    "file": "assets/LogoutOtherBrowserSessionsForm-25100284.js",
+    "imports": [
+      "resources/js/app.js",
+      "_ActionMessage-106e7e18.js",
+      "_DialogModal-d6dbcf90.js",
+      "_Button-cfbd6160.js",
+      "_Input-fb8f6ab2.js",
+      "_InputError-0fc4432f.js",
+      "_SecondaryButton-cf617ae5.js",
+      "_Modal-8ee0a00d.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Profile/Partials/LogoutOtherBrowserSessionsForm.vue"
+  },
+  "resources/js/Pages/Profile/Partials/TwoFactorAuthenticationForm.vue": {
+    "file": "assets/TwoFactorAuthenticationForm-0b90010f.js",
+    "imports": [
+      "resources/js/app.js",
+      "_DialogModal-d6dbcf90.js",
+      "_Button-cfbd6160.js",
+      "_Input-fb8f6ab2.js",
+      "_InputError-0fc4432f.js",
+      "_SecondaryButton-cf617ae5.js",
+      "_DangerButton-3e27edcd.js",
+      "_Modal-8ee0a00d.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Profile/Partials/TwoFactorAuthenticationForm.vue"
+  },
+  "resources/js/Pages/Profile/Partials/UpdatePasswordForm.vue": {
+    "file": "assets/UpdatePasswordForm-6410af34.js",
+    "imports": [
+      "resources/js/app.js",
+      "_ActionMessage-106e7e18.js",
+      "_Button-cfbd6160.js",
+      "_FormSection-62113fe7.js",
+      "_Input-fb8f6ab2.js",
+      "_InputError-0fc4432f.js",
+      "_Label-e8b67dfc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Profile/Partials/UpdatePasswordForm.vue"
+  },
+  "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.vue": {
+    "file": "assets/UpdateProfileInformationForm-3af588ee.js",
+    "imports": [
+      "resources/js/app.js",
+      "_Button-cfbd6160.js",
+      "_FormSection-62113fe7.js",
+      "_Input-fb8f6ab2.js",
+      "_InputError-0fc4432f.js",
+      "_Label-e8b67dfc.js",
+      "_ActionMessage-106e7e18.js",
+      "_SecondaryButton-cf617ae5.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.vue"
+  },
+  "resources/js/Pages/Profile/Show.vue": {
+    "file": "assets/Show-45e46f03.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "resources/js/Pages/Profile/Partials/DeleteUserForm.vue",
+      "resources/js/app.js",
+      "resources/js/Pages/Profile/Partials/LogoutOtherBrowserSessionsForm.vue",
+      "resources/js/Pages/Profile/Partials/TwoFactorAuthenticationForm.vue",
+      "resources/js/Pages/Profile/Partials/UpdatePasswordForm.vue",
+      "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.vue",
+      "_DialogModal-d6dbcf90.js",
+      "_InputError-0fc4432f.js",
+      "_Modal-8ee0a00d.js",
+      "_DangerButton-3e27edcd.js",
+      "_Input-fb8f6ab2.js",
+      "_SecondaryButton-cf617ae5.js",
+      "_ActionMessage-106e7e18.js",
+      "_Button-cfbd6160.js",
+      "_FormSection-62113fe7.js",
+      "_Label-e8b67dfc.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Profile/Show.vue"
+  },
+  "resources/js/Pages/QuickbyService.vue": {
+    "assets": [
+      "assets/chat-q-2c9dfb77.png",
+      "assets/rating-279e4519.png"
+    ],
+    "file": "assets/QuickbyService-ac442d96.js",
+    "imports": [
+      "resources/js/app.js",
+      "_carousel.es-bbf7d40b.js",
+      "_AppLayout-d9cf9f8b.js",
+      "_avatar-98dfade1.js",
+      "_lock-f1fa0ef0.js",
+      "_arrow-ee1506ca.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/QuickbyService.vue"
+  },
+  "resources/js/Pages/ServiceLogs/Detail.css": {
+    "file": "assets/Detail-b28e32b0.css",
+    "src": "resources/js/Pages/ServiceLogs/Detail.css"
+  },
+  "resources/js/Pages/ServiceLogs/Detail.vue": {
+    "css": [
+      "assets/Detail-b28e32b0.css"
+    ],
+    "file": "assets/Detail-4d1c21b4.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "resources/js/app.js",
+      "_ValidationErrors-d7bce657.js",
+      "_Breadcrums-6e9c9fc2.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/ServiceLogs/Detail.vue"
+  },
+  "resources/js/Pages/ServiceLogs/Index.vue": {
+    "file": "assets/Index-ab821cf0.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "resources/js/app.js",
+      "_ValidationErrors-d7bce657.js",
+      "_TableTHead-d61fa876.js",
+      "_TablePagination-20d50387.js",
+      "_PaginationMixin-11bee913.js",
+      "_SideTabsPageSkeleton-fefd11a3.js",
+      "_RecordNotFound-f63fbd0a.js",
+      "_default_avatar_men-98dfade1.js",
+      "_Breadcrums-6e9c9fc2.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/ServiceLogs/Index.vue"
+  },
+  "resources/js/Pages/Services/BookService.css": {
+    "file": "assets/BookService-5a3b2fb7.css",
+    "src": "resources/js/Pages/Services/BookService.css"
+  },
+  "resources/js/Pages/Services/BookService.vue": {
+    "css": [
+      "assets/BookService-5a3b2fb7.css"
+    ],
+    "file": "assets/BookService-b3455e46.js",
+    "imports": [
+      "resources/js/app.js",
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "_ValidationErrors-d7bce657.js",
+      "_CalenderSkeleton-8c6f26e1.js",
+      "_carousel.es-bbf7d40b.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Services/BookService.vue"
+  },
+  "resources/js/Pages/Services/Detail.vue": {
+    "assets": [
+      "assets/edit-20254509.png",
+      "assets/paisa-020829de.png"
+    ],
+    "file": "assets/Detail-b7eaa5ec.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "_Breadcrums-6e9c9fc2.js",
+      "_carousel.es-bbf7d40b.js",
+      "resources/js/app.js",
+      "_avatar-98dfade1.js",
+      "_lock-f1fa0ef0.js",
+      "_arrow-ee1506ca.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Services/Detail.vue"
+  },
+  "resources/js/Pages/Services/Listing.vue": {
+    "file": "assets/Listing-188f5115.js",
+    "imports": [
+      "_PaginationMixin-11bee913.js",
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "resources/js/app.js",
+      "_ValidationErrors-d7bce657.js",
+      "_SpinnerLoader-11a0d54b.js",
+      "_ServiceCard-379f7600.js",
+      "_default_avatar_men-98dfade1.js",
+      "_lock-f1fa0ef0.js",
+      "_RecordNotFound-f63fbd0a.js",
+      "_Breadcrums-6e9c9fc2.js",
+      "_CardSkeleton-05cb23a1.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Services/Listing.vue"
+  },
+  "resources/js/Pages/Shop.vue": {
+    "file": "assets/Shop-9a6ed644.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Shop.vue"
+  },
+  "resources/js/Pages/Tags/Detail.vue": {
+    "file": "assets/Detail-ec0a703d.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "_BroadcastCard-4f71f005.js",
+      "_PodcastCard-0edb2d5f.js",
+      "_PostCard-d348bfcb.js",
+      "_ArchiveCard-0c9114c9.js",
+      "_EventCard-f9a527c6.js",
+      "_ProfileSection-adc891cf.js",
+      "resources/js/app.js",
+      "_CardSkeleton-05cb23a1.js",
+      "_podcast-d52a64c8.js",
+      "_image-3ef26202.js",
+      "_course-aea85fdd.js",
+      "_default_avatar_men-98dfade1.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Tags/Detail.vue"
+  },
+  "resources/js/Pages/Tags/Listing.vue": {
+    "file": "assets/Listing-0f924829.js",
+    "imports": [
+      "_PaginationMixin-11bee913.js",
+      "_AppLayout-d9cf9f8b.js",
+      "_PageHeader-a1b6d327.js",
+      "resources/js/app.js",
+      "_RecordNotFound-f63fbd0a.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Tags/Listing.vue"
+  },
+  "resources/js/Pages/ThankYouPage.vue": {
+    "file": "assets/ThankYouPage-926e96f2.js",
+    "imports": [
+      "_AppLayout-d9cf9f8b.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/ThankYouPage.vue"
+  },
+  "resources/js/Pages/Wallet.css": {
+    "file": "assets/Wallet-67ecd092.css",
+    "src": "resources/js/Pages/Wallet.css"
+  },
+  "resources/js/Pages/Wallet.vue": {
+    "css": [
+      "assets/Wallet-67ecd092.css"
+    ],
+    "file": "assets/Wallet-56e4200a.js",
+    "imports": [
+      "resources/js/app.js",
+      "_AppLayout-d9cf9f8b.js",
+      "_TablePagination-20d50387.js",
+      "_carousel.es-bbf7d40b.js",
+      "_Modal-8ee0a00d.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Wallet.vue"
+  },
+  "resources/js/Pages/Welcome.vue": {
+    "file": "assets/Welcome-8b8bb000.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/Pages/Welcome.vue"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-b59b912e.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "assets": [
+      "assets/hero-bg-8c2fd901.png",
+      "assets/g-normal-0a7407fe.png",
+      "assets/Facebook-logo-blue-circle-large-transparent-png-645d1e5d.png",
+      "assets/lawyers-leaves-7e9bf516.png",
+      "assets/map-bg-77832f9e.png",
+      "assets/ban-map-335a6e94.png",
+      "assets/upcoming-883b4a0c.png",
+      "assets/upcoming1-d27d1a8e.png",
+      "assets/bg-img-34e456d2.jpg"
+    ],
+    "css": [
+      "assets/app-b59b912e.css"
+    ],
+    "dynamicImports": [
+      "resources/js/Pages/Account.vue",
+      "resources/js/Pages/AddFundBankAccount.vue",
+      "resources/js/Pages/Appointment.vue",
+      "resources/js/Pages/AppointmentLog.vue",
+      "resources/js/Pages/AppointmentLogDetail.vue",
+      "resources/js/Pages/AppointmentLogOld.vue",
+      "resources/js/Pages/Archives/Detail.vue",
+      "resources/js/Pages/Archives/Listing.vue",
+      "resources/js/Pages/Auth/ConfirmPassword.vue",
+      "resources/js/Pages/Auth/ForgotPassword.vue",
+      "resources/js/Pages/Auth/Login.vue",
+      "resources/js/Pages/Auth/Register.vue",
+      "resources/js/Pages/Auth/ResetPassword.vue",
+      "resources/js/Pages/Auth/VerifyEmail.vue",
+      "resources/js/Pages/BankAccounts.vue",
+      "resources/js/Pages/Blogs/Detail.vue",
+      "resources/js/Pages/Blogs/Listing.vue",
+      "resources/js/Pages/Broadcasts/Detail.vue",
+      "resources/js/Pages/Broadcasts/Listing.vue",
+      "resources/js/Pages/Categories/Listing.vue",
+      "resources/js/Pages/CommunityPosts/Detail.vue",
+      "resources/js/Pages/CommunityPosts/Index.vue",
+      "resources/js/Pages/Company/Cookies.vue",
+      "resources/js/Pages/Company/PrivacyPolicy.vue",
+      "resources/js/Pages/Company/Terms.vue",
+      "resources/js/Pages/CompanyPage.vue",
+      "resources/js/Pages/Contact.vue",
+      "resources/js/Pages/Dashboard.vue",
+      "resources/js/Pages/Donation.vue",
+      "resources/js/Pages/Events/Detail.vue",
+      "resources/js/Pages/Events/Listing.vue",
+      "resources/js/Pages/FAQ.vue",
+      "resources/js/Pages/FailedPage.vue",
+      "resources/js/Pages/Forum.vue",
+      "resources/js/Pages/HealYourSelf.vue",
+      "resources/js/Pages/Home.vue",
+      "resources/js/Pages/LawFirms/BookAppointment.vue",
+      "resources/js/Pages/LawFirms/Listing.vue",
+      "resources/js/Pages/LawFirms/Profile.vue",
+      "resources/js/Pages/LawFirms/Reviews.vue",
+      "resources/js/Pages/Lawyers/BookAppointment.vue",
+      "resources/js/Pages/Lawyers/Listing.vue",
+      "resources/js/Pages/Lawyers/Profile.vue",
+      "resources/js/Pages/Lawyers/Reviews.vue",
+      "resources/js/Pages/OurStory.vue",
+      "resources/js/Pages/Podcasts/Detail.vue",
+      "resources/js/Pages/Podcasts/Listing.vue",
+      "resources/js/Pages/PricingPlan/Detail.vue",
+      "resources/js/Pages/PricingPlan/Listing.vue",
+      "resources/js/Pages/Profile/Partials/DeleteUserForm.vue",
+      "resources/js/Pages/Profile/Partials/LogoutOtherBrowserSessionsForm.vue",
+      "resources/js/Pages/Profile/Partials/TwoFactorAuthenticationForm.vue",
+      "resources/js/Pages/Profile/Partials/UpdatePasswordForm.vue",
+      "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.vue",
+      "resources/js/Pages/Profile/Show.vue",
+      "resources/js/Pages/QuickbyService.vue",
+      "resources/js/Pages/ServiceLogs/Detail.vue",
+      "resources/js/Pages/ServiceLogs/Index.vue",
+      "resources/js/Pages/Services/BookService.vue",
+      "resources/js/Pages/Services/Detail.vue",
+      "resources/js/Pages/Services/Listing.vue",
+      "resources/js/Pages/Shop.vue",
+      "resources/js/Pages/Tags/Detail.vue",
+      "resources/js/Pages/Tags/Listing.vue",
+      "resources/js/Pages/ThankYouPage.vue",
+      "resources/js/Pages/Wallet.vue",
+      "resources/js/Pages/Welcome.vue"
+    ],
+    "file": "assets/app-9699873a.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/images/account/default_avatar_men.png": {
+    "file": "assets/avatar-d09c637b.png",
+    "src": "resources/js/images/common/avatar.png"
+  },
+  "resources/js/images/arrow.png": {
+    "file": "assets/arrow-fbe093bd.png",
+    "src": "resources/js/images/arrow.png"
+  },
+  "resources/js/images/bg-img.jpg": {
+    "file": "assets/bg-img-34e456d2.jpg",
+    "src": "resources/js/images/bg-img.jpg"
+  },
+  "resources/js/images/cardlaw.jpg": {
+    "file": "assets/cardlaw-42b8286f.jpg",
+    "src": "resources/js/images/cardlaw.jpg"
+  },
+  "resources/js/images/chat-q.png": {
+    "file": "assets/chat-q-2c9dfb77.png",
+    "src": "resources/js/images/chat-q.png"
+  },
+  "resources/js/images/common/Emoji.svg": {
+    "file": "assets/Emoji-692fc46b.svg",
+    "src": "resources/js/images/common/Emoji.svg"
+  },
+  "resources/js/images/common/Facebook-logo-blue-circle-large-transparent-png.png": {
+    "file": "assets/Facebook-logo-blue-circle-large-transparent-png-645d1e5d.png",
+    "src": "resources/js/images/common/Facebook-logo-blue-circle-large-transparent-png.png"
+  },
+  "resources/js/images/common/attach-2.svg": {
+    "file": "assets/attach-2-f420e9aa.svg",
+    "src": "resources/js/images/common/attach-2.svg"
+  },
+  "resources/js/images/common/avatar.png": {
+    "file": "assets/avatar-d09c637b.png",
+    "src": "resources/js/images/common/avatar.png"
+  },
+  "resources/js/images/common/course.png": {
+    "file": "assets/course-cbaf4065.png",
+    "src": "resources/js/images/common/course.png"
+  },
+  "resources/js/images/common/g-normal.png": {
+    "file": "assets/g-normal-0a7407fe.png",
+    "src": "resources/js/images/common/g-normal.png"
+  },
+  "resources/js/images/common/image.png": {
+    "file": "assets/image-94cb5f9e.png",
+    "src": "resources/js/images/common/image.png"
+  },
+  "resources/js/images/common/media.png": {
+    "file": "assets/media-5f281d02.png",
+    "src": "resources/js/images/common/media.png"
+  },
+  "resources/js/images/common/podcast.png": {
+    "file": "assets/podcast-c74d13a2.png",
+    "src": "resources/js/images/common/podcast.png"
+  },
+  "resources/js/images/common/send.svg": {
+    "file": "assets/send-1512e519.svg",
+    "src": "resources/js/images/common/send.svg"
+  },
+  "resources/js/images/edit.png": {
+    "file": "assets/edit-20254509.png",
+    "src": "resources/js/images/edit.png"
+  },
+  "resources/js/images/home/27718-5-business-people-hd.png": {
+    "file": "assets/27718-5-business-people-hd-2982498d.png",
+    "src": "resources/js/images/home/27718-5-business-people-hd.png"
+  },
+  "resources/js/images/home/ban-map.png": {
+    "file": "assets/ban-map-335a6e94.png",
+    "src": "resources/js/images/home/ban-map.png"
+  },
+  "resources/js/images/home/group3.png": {
+    "file": "assets/group3-5ce2c810.png",
+    "src": "resources/js/images/home/group3.png"
+  },
+  "resources/js/images/home/hero-bg.png": {
+    "file": "assets/hero-bg-8c2fd901.png",
+    "src": "resources/js/images/home/hero-bg.png"
+  },
+  "resources/js/images/home/justice.gif": {
+    "file": "assets/justice-45683085.gif",
+    "src": "resources/js/images/home/justice.gif"
+  },
+  "resources/js/images/home/lawfirmhero1.png": {
+    "file": "assets/lawfirmhero1-5f5683f6.png",
+    "src": "resources/js/images/home/lawfirmhero1.png"
+  },
+  "resources/js/images/home/lawfirmhero2.png": {
+    "file": "assets/lawfirmhero2-245bd587.png",
+    "src": "resources/js/images/home/lawfirmhero2.png"
+  },
+  "resources/js/images/home/lawfirmhero3.png": {
+    "file": "assets/lawfirmhero3-d1e72ba7.png",
+    "src": "resources/js/images/home/lawfirmhero3.png"
+  },
+  "resources/js/images/home/lawfirmhero4.png": {
+    "file": "assets/lawfirmhero4-3f5a6881.png",
+    "src": "resources/js/images/home/lawfirmhero4.png"
+  },
+  "resources/js/images/home/lawfirmshero.png": {
+    "file": "assets/lawfirmshero-a28f8051.png",
+    "src": "resources/js/images/home/lawfirmshero.png"
+  },
+  "resources/js/images/home/lawyers-leaves.png": {
+    "file": "assets/lawyers-leaves-7e9bf516.png",
+    "src": "resources/js/images/home/lawyers-leaves.png"
+  },
+  "resources/js/images/home/logo.png": {
+    "file": "assets/logo-95463e77.png",
+    "src": "resources/js/images/home/logo.png"
+  },
+  "resources/js/images/home/map-bg.png": {
+    "file": "assets/map-bg-77832f9e.png",
+    "src": "resources/js/images/home/map-bg.png"
+  },
+  "resources/js/images/home/members-icon.png": {
+    "file": "assets/members-icon-1fc3dbec.png",
+    "src": "resources/js/images/home/members-icon.png"
+  },
+  "resources/js/images/home/mobile-2.png": {
+    "file": "assets/mobile-2-9f8d716b.png",
+    "src": "resources/js/images/home/mobile-2.png"
+  },
+  "resources/js/images/home/pic2.png": {
+    "file": "assets/pic2-bc1191b3.png",
+    "src": "resources/js/images/home/pic2.png"
+  },
+  "resources/js/images/home/premium.png": {
+    "file": "assets/premium-1f9fefe8.png",
+    "src": "resources/js/images/home/premium.png"
+  },
+  "resources/js/images/home/slider-img.png": {
+    "file": "assets/slider-img-705dd6cc.png",
+    "src": "resources/js/images/home/slider-img.png"
+  },
+  "resources/js/images/home/upcoming.png": {
+    "file": "assets/upcoming-883b4a0c.png",
+    "src": "resources/js/images/home/upcoming.png"
+  },
+  "resources/js/images/home/upcoming1.png": {
+    "file": "assets/upcoming1-d27d1a8e.png",
+    "src": "resources/js/images/home/upcoming1.png"
+  },
+  "resources/js/images/home/user.png": {
+    "file": "assets/user-32151180.png",
+    "src": "resources/js/images/home/user.png"
+  },
+  "resources/js/images/home/vid-call.png": {
+    "file": "assets/vid-call-56267b37.png",
+    "src": "resources/js/images/home/vid-call.png"
+  },
+  "resources/js/images/icons/loginbtnicon.png": {
+    "file": "assets/loginbtnicon-0089190a.png",
+    "src": "resources/js/images/icons/loginbtnicon.png"
+  },
+  "resources/js/images/lock.png": {
+    "file": "assets/lock-8e89a8f6.png",
+    "src": "resources/js/images/lock.png"
+  },
+  "resources/js/images/paisa.png": {
+    "file": "assets/paisa-020829de.png",
+    "src": "resources/js/images/paisa.png"
+  },
+  "resources/js/images/person.png": {
+    "file": "assets/person-337148b2.png",
+    "src": "resources/js/images/person.png"
+  },
+  "resources/js/images/property-s.png": {
+    "file": "assets/property-s-003bcee4.png",
+    "src": "resources/js/images/property-s.png"
+  },
+  "resources/js/images/rating.png": {
+    "file": "assets/rating-279e4519.png",
+    "src": "resources/js/images/rating.png"
+  },
+  "resources/js/images/sale-services.png": {
+    "file": "assets/sale-services-2a3376b4.png",
+    "src": "resources/js/images/sale-services.png"
+  }
+}

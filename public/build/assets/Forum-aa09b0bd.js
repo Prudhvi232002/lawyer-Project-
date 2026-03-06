@@ -1,0 +1,1 @@
+import{A as e,N as t}from"./AppLayout-d9cf9f8b.js";import{P as a}from"./PageHeader-a1b6d327.js";import{_ as r,d as n,o as p,i as s,r as c}from"./app-9699873a.js";const m=n({components:{AppLayout:e,Navbar:t,PageHeader:a}});function _(f,i,u,d,l,$){const o=c("app-layout");return p(),s(o,{title:"Forum"})}const v=r(m,[["render",_]]);export{v as default};
