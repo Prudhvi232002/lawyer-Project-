@@ -1,0 +1,413 @@
+.stats {
+    background: rgba($color: $primary, $alpha: 0.23);
+    .item {
+        .bi {
+            color: rgb(37, 37, 37);
+            font-size: 48px;
+            line-height: 50px;
+            height: 50px;
+        }
+
+    }
+}
+.home-pills {
+    .nav-link {
+        border-width: 2px;
+        border-color: #1f132e;
+        border-style: solid;
+    }
+}
+.tags {
+    display: inline-block;
+    li {
+        list-style: none;
+        background-color: #e7ddf3;
+    }
+}
+
+.block--text {
+    position: absolute;
+    top: 0%;
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    color: antiquewhite;
+    transform-origin: bottom center;
+    transition: all 300ms ease-in;
+    z-index: 9;
+    opacity: 0;
+    transition: all 300ms 200ms ease-in;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.item-h {
+    // .item-overlay {
+    //     display: flex;
+    //     align-items: center;
+    //     justify-content: center;
+    //     border-radius: 0px;
+    // }
+
+    &:hover {
+        // .item-overlay.top {
+        //     top: 0;
+        // }
+
+        .item-overlay {
+            transform: rotate(45deg) scaleY(2) scaleX(1);
+        }
+        .block--text {
+            opacity: 1;
+        }
+    }
+}
+
+.find-lawyers {
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url(../js/images/home/lawyers-leaves.png);
+    background-color: #f5f5f5;
+}
+
+.custom-search-panel {
+    width: fit-content;
+    border-radius: 8px !important;
+}
+
+.header-images {
+    :nth-child(1) {
+        top: 30px;
+        left: 86px;
+        width: 200px;
+    }
+    :nth-child(2) {
+        top: 75px;
+        right: -64px;
+        width: 300px;
+    }
+
+    :nth-child(3) {
+        bottom: 100px;
+        right: 100px;
+        width: 160px;
+    }
+
+    :nth-child(4) {
+        bottom: 200px;
+        left: 86px;
+        width: 160px;
+    }
+}
+
+.static-cards {
+    padding: 60px;
+    img{
+        filter: invert(0);
+    }
+    .item {
+        background-color: var(--tertiary-color) !important;
+        color: black!important;
+        h6{
+            color: black !important;
+        }
+        border-radius: 30px;
+        img {
+            height: 65px;
+        }
+        &:hover{
+
+            box-shadow: 0 0.25rem 1rem rgba(0, 0, 0, 0.15) !important;
+        }
+    }
+}
+
+.nearest-lawyer {
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url(../js/images/home/map-bg.png);
+}
+
+.lawyer-tabs .nav-pills {
+    background-color: #f3f3f3;
+    width: fit-content;
+    font-weight: 500 !important;
+    .nav-link.active {
+        box-shadow: 2px 3px 7px #b5b5b5;
+    }
+}
+
+.free-consulation {
+    margin-top: 100px;
+    // background-image:linear-gradient(32deg, rgba(16,32,38,1) 0%, rgba(16,32,38,1) 35%, rgba(145,125,65,1) 100%),url(../js/images/home/ban-map.png);
+    background-size: cover;
+    background: rgba(16,32,38,1);
+    background-image: url(../js/images/home/ban-map.png); /* fallback */
+    background-image:
+  url(../js/images/home/ban-map.png),
+  linear-gradient(
+    32deg,
+    rgba(16,32,38,1) 0%,
+    rgba(16,32,38,1) 35%,
+    var(--bs-primary) 100%
+  ) !important; /* W3C */
+}
+
+.upcoming {
+    position: relative;
+    &::after {
+        content: "";
+        background: url(../js/images/home/upcoming.png);
+        width: 406px;
+        height: 501px;
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: -1;
+    }
+    &::before {
+        content: "";
+        background: url(../js/images/home/upcoming1.png);
+        width: 406px;
+        height: 501px;
+        display: block;
+        position: absolute;
+        right: 0;
+        top: 0;
+        z-index: -1;
+    }
+}
+
+.btn-store {
+    background-color: #212121;
+    color: white;
+    border: 2px solid rgba($color: #212121, $alpha: 0.43);
+    padding: 10px 24px;
+    align-items: center;
+    text-decoration: none;
+    span{
+        color: white ;
+    }
+    p{
+        color: white ;
+    }
+    &:hover {
+        // border: 2px solid $primary;
+        transition: 0.5s;
+        
+        background-color: black;
+    }
+}
+
+.btn-store .btn-label,
+.btn-store .btn-caption {
+    display: block;
+    text-align: left;
+    line-height: 1;
+}
+
+.btn-store .btn-caption {
+    font-size: 24px;
+}
+
+.custom-bg{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    position: absolute;
+    right: 0px;
+}
+
+div.mobile-img {
+    position: relative;
+    .back-shadow {
+        position: absolute;
+        left: 40px;
+        z-index: -1;
+        width: 400px;
+        top: 170px;
+        background-color: var(--bs-primary) !important;
+        height: 200px;
+        filter: blur(170px);
+        border-radius: 100%;
+    }
+}
+
+//animations
+/* Float */
+.hvr-float {
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
+}
+.hvr-float:hover,
+.hvr-float:focus,
+.hvr-float:active {
+    -webkit-transform: translateY(-8px);
+    transform: translateY(-8px);
+}
+
+.hvr-shrink {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+}
+.hvr-shrink:hover,
+.hvr-shrink:focus,
+.hvr-shrink:active {
+    -webkit-transform: scale(0.9);
+    transform: scale(0.9);
+}
+
+.hero {
+    position: relative;
+
+    .carousel .carousel__prev,
+    .carousel .carousel__next {
+        border: 2px solid white;
+        color: white;
+        position: absolute;
+        &:hover,
+        &:focus {
+            background-color: $primary;
+            border-color: $primary;
+            transition: 0.5s;
+        }
+    }
+
+    .carousel .carousel__prev {
+        bottom: 10px;
+        left: auto;
+        right: 105px;
+        top: auto;
+    }
+
+    .carousel .carousel__next {
+        bottom: 10px;
+        right: 50px;
+        top: auto;
+    }
+
+    .carousel__slide {
+        overflow: hidden;
+    }
+}
+
+.circle {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 1px 1px #0000001a;
+}
+
+.green {
+    background: #66ff99;
+}
+
+.yellow {
+    background: #fae424;
+}
+.pulse {
+    animation: pulse-animation 2s infinite;
+}
+
+@keyframes pulse-animation {
+    0% {
+        box-shadow: 0 0 0 0px rgba(84, 223, 29, 0.2);
+    }
+    100% {
+        box-shadow: 0 0 0 10px rgba(0, 0, 0, 0);
+    }
+}
+
+.hero-pulse {
+    background: rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 5px 15px;
+}
+
+.search-field {
+    width: 300px;
+}
+
+input {
+    outline: none !important;
+}
+
+.card-reviews {
+    img {
+        min-height: 260px;
+    }
+}
+
+.static-cards {
+    .item {
+        width: 250px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .upcoming {
+        position: relative;
+        &::after {
+            background: none;
+        }
+        &::before {
+            background: none;
+        }
+    }
+
+    .static-cards {
+        padding: 20px;
+    }
+
+    div.mobile-img .back-shadow {
+        width: 463px;
+        left: -40px;
+    }
+
+    .custom-search-panel {
+        .input-group-btn.d-grid {
+            width: 100%;
+        }
+    }
+    .carousel .carousel__prev,
+    .carousel .carousel__next {
+        display: none !important;
+    }
+
+    html,
+    body {
+        overflow-x: hidden;
+    }
+    .section {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .hero-pulse {
+        width: fit-content;
+    }
+    .search-field {
+        width: 100px;
+    }
+}
+
+@media (min-width:992.9px) and (max-width:1200px) {
+    .btn-store .btn-caption {
+        font-size: 14px !important;
+    }
+}

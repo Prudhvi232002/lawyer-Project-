@@ -1,0 +1,33 @@
+// Variables
+//
+// Variables should follow the `$component-state-property-size` formula for
+// consistent naming. Ex: $nav-link-disabled-color and $modal-content-box-shadow-xs.
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+// Typography
+$font-family-sans-serif: 'Montserrat', sans-serif;
+
+// $primary: #fdc324;
+
+$border-radius:               .375rem;
+$border-radius-sm:            .25rem;
+$border-radius-lg:            .5rem;
+$border-radius-xl:            6px;
+$border-radius-2xl:           10px;
+$border-radius-pill:          50rem;
+
+
+$display-font-sizes: (
+  1: 3rem,
+  2: 2.0rem,
+  3: 4rem,
+  4: 3.5rem,
+  5: 3rem,
+  6: 2.5rem
+);
+
+
+// modal
+$modal-xl:                   1320px;
+$badge-font-weight:           500;

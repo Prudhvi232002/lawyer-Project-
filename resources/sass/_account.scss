@@ -1,0 +1,26 @@
+.profile{
+    .nav-tabs{
+        background-color: #F1F3F5;
+        border-bottom: 2px solid  var(--bs-primary);
+
+        .nav-link{
+            border: 0;
+            border-radius: 0;
+            color: rgb(151, 151, 151);
+
+            &.active{
+                color: white;
+                background-color: var(--bs-primary);
+            }
+        }
+    }
+    .profile-avatar{
+        overflow: hidden;
+        width: 250px;
+        height: 300px;
+    }
+    .icon{
+        top: 15px;
+        right: 15px;
+    }
+}
